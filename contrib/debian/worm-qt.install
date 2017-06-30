@@ -1,0 +1,6 @@
+debian/bin/worm-qt usr/bin
+worm-qt usr/lib/worm
+share/pixmaps/worm32.xpm usr/share/pixmaps
+share/pixmaps/worm80.xpm usr/share/pixmaps
+debian/worm-qt.desktop usr/share/applications
+debian/worm-qt.protocol usr/share/kde4/services/

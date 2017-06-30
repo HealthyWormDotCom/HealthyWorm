@@ -1,0 +1,9 @@
+Building worm
+
+See doc/readme-qt.rst for instructions on building worm QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of worm.
+
+See doc/build-*.txt for instructions on building wormd,
+the intended-for-services, no-graphical-interface, reference
+implementation of worm.

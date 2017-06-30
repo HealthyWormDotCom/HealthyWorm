@@ -1,0 +1,2 @@
+debian/bin/wormd usr/bin
+src/wormd usr/lib/worm
